@@ -41,3 +41,7 @@ The script reads the data, enters it into the calculator webpage, and verifies t
 3. Write results back to Excel:
  - "Passed" → Green cell
  - "Failed" → Red cell.
+### Instructions ####
+1. The DDT file is the Main code of the python
+2. The xlutils is the supportive functions file which is mandatory to execute the Workflow
+3. The screenshots and Recordings will help you to understand the code execution.
